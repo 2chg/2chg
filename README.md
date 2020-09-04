@@ -3,7 +3,7 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-### Hi there 👋
+### Hi there
 
 My name is Christian Richter and I am a senior consultant from Hanover, Germany.
 You can find me at on [LinkedIn], or on [XING].
@@ -11,7 +11,7 @@ You can find me at on [LinkedIn], or on [XING].
 <!-- Symbole vielleicht von https://remixicon.com/ herunterladen und hier verlinken? -->
 
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=3c6d4b)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=3c6d4b)
 
