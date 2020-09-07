@@ -26,6 +26,7 @@ You can find me at on [LinkedIn], or on [XING].
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3c6d4b)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3c6d4b)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3c6d4b)
+![](https://img.shields.io/badge/Shell-Batch-informational?style=flat&logo=windows&logoColor=white&color=3c6d4b)
 
 ![](https://img.shields.io/badge/Database-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=3c6d4b)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3c6d4b)
